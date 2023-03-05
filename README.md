@@ -2,10 +2,31 @@
 
 # NFT
 
-##npm start
+## npm start
+
+
+#### Add NFT to Collection
+
+```
+Collection Mint:  https://explorer.solana.com/address/2geZak3aaTXiyGd8kk9zUg3BNaW4Cm3euaz5pNoanjMv?cluster=devnet
+
+```
+<img width="518" alt="Ekran Resmi 2023-03-05 11 45 29" src="https://user-images.githubusercontent.com/77569603/222950851-88cbc095-81c6-4133-875b-f7955b8c4182.png">
+
+
+<img width="772" alt="Ekran Resmi 2023-03-05 11 45 48" src="https://user-images.githubusercontent.com/77569603/222950856-5182ba5b-7e72-4082-a52f-13db8d2ea58b.png">
+
+
+<img width="750" alt="Ekran Resmi 2023-03-05 11 46 32" src="https://user-images.githubusercontent.com/77569603/222950867-a5aa4fa8-b89a-40da-823f-add8c305f36a.png">
+
+
+<img width="781" alt="Ekran Resmi 2023-03-05 11 46 53" src="https://user-images.githubusercontent.com/77569603/222950875-4c85b9d9-988d-4029-9282-041b2e9dfd2c.png">
+
+
+<img width="751" alt="Ekran Resmi 2023-03-05 11 47 08" src="https://user-images.githubusercontent.com/77569603/222950882-19f8ba96-324b-48a0-926e-af7f9c31e9b2.png">
+
 
 #### Create NFT
-
 
 ```
 image uri: https://lezdbnkba5y35bprplwei3d46nrznka2tp5twmxxxtydkjjpgjfa.arweave.net/WTIwtUEHcb6F8XrsRGx882OWqBqb-zsy97zwNSUvMko
